@@ -1,10 +1,9 @@
-# Albedo — Cybersecurity Analyst in Progress
+# Albedo — Cybersecurity Analyst 
 
-> 🔐 Изучаю кибербезопасность | Строю базу знаний | Иду к первой работе в ИБ
+
 
 ---
 
-## 👤 О себе
 
 
 
