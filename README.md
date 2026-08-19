@@ -1,5 +1,9 @@
 # Albedo — Cybersecurity Analyst
 
+Аналитик по кибербезопасности. Фокус на сетевую безопасность, анализ инцидентов, пентест и автоматизацию задач безопасности.
+
+[![HTB](https://www.hackthebox.com/badge/image/3024562)](https://app.hackthebox.com/profile/3024562)
+
 ## Проекты
 
 - [red-team-labs](https://github.com/AlbedoGown/red-team-labs) — атакующие техники: разведка, эксплуатация, повышение привилегий, Active Directory
@@ -25,8 +29,8 @@
 
 ## Сертификаты
 
-
+<!-- вставить ссылки на сертификаты -->
 
 ## Контакты
 
-
+<!-- вставить ссылки на LinkedIn / Telegram / другие профессиональные сети -->
