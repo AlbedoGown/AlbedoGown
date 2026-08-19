@@ -1,29 +1,28 @@
-# Albedo — Cybersecurity Analyst 
+# Albedo — Cybersecurity Analyst
 
+Аналитик по кибербезопасности. Фокус на сетевую безопасность, анализ инцидентов, пентест и автоматизацию задач безопасности.
 
+## Проекты
 
----
+- [red-team-labs](https://github.com/AlbedoGown/red-team-labs) — атакующие техники: разведка, эксплуатация, повышение привилегий, Active Directory
+- [blue-team-defense](https://github.com/AlbedoGown/blue-team-defense) — защита и мониторинг: SIEM, анализ логов, реагирование на инциденты, threat hunting
+- [xor-shellcode-toolkit](https://github.com/AlbedoGown/xor-shellcode-toolkit) — анализ и генерация обфусцированного шеллкода (XOR-энкодер/декодер)
+- [quick-recon-powershell](https://github.com/AlbedoGown/quick-recon-powershell) — PowerShell-модуль для быстрого сбора информации о хосте
+- [file-janitor](https://github.com/AlbedoGown/file-janitor) — автоматизация обслуживания файловой системы
 
+## Навыки и инструменты
 
+**Системы:** Linux (Kali), Windows 11 / Active Directory, macOS
+**Сети:** сканирование и анализ трафика, VPN (WireGuard, OpenVPN), настройка туннелей
+**Пентест:** Nmap, Metasploit, Burp Suite, BloodHound, Impacket
+**Blue Team:** SIEM (Splunk), Wireshark, Sysmon, анализ журналов Windows/Linux
+**Программирование:** Python, Bash, PowerShell
+**Инфраструктура:** виртуальные машины, облачные лаборатории, домашняя сетьевая инфраструктура
 
+## Сертификаты
 
-## 🛠️ Стек и инструменты
+<!-- вставить ссылки на сертификаты -->
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+## Контакты
 
----
-
-## 📂 Репозитории
-
-| Репозиторий | Что внутри |
-|---|---|
-| [tryhackme-writeups](https://github.com/AlbedoGown/tryhackme-writeups) | Разборы комнат TryHackMe |
-| [soc-notes](https://github.com/AlbedoGown/soc-notes) | Заметки по SOC, SIEM, анализу логов |
-| [python-security-scripts](https://github.com/AlbedoGown/python-security-scripts) | Скрипты для автоматизации задач ИБ |
-| [homelab-setup](https://github.com/AlbedoGown/homelab-setup) | Настройка домашней лаборатории |
-
----
+<!-- вставить ссылки на LinkedIn / Telegram / другие профессиональные сети -->
