@@ -3,6 +3,7 @@
 Аналитик по кибербезопасности. Фокус на сетевую безопасность, анализ инцидентов, пентест и автоматизацию задач безопасности.
 
 [![HTB](https://www.hackthebox.com/badge/image/3024562)](https://app.hackthebox.com/profile/Albedo0x)
+[![HTB Level](https://img.shields.io/badge/HTB_Level-28_%28Apprentice%29-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/Albedo0x)
 
 ## Проекты
 
