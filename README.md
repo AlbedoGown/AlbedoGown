@@ -10,14 +10,16 @@
 - [quick-recon-powershell](https://github.com/AlbedoGown/quick-recon-powershell) — PowerShell-модуль для быстрого сбора информации о хосте
 - [file-janitor](https://github.com/AlbedoGown/file-janitor) — автоматизация обслуживания файловой системы
 
-## Навыки и инструменты
+## Стек и инструменты
 
-**Системы:** Linux (Kali), Windows 11 / Active Directory, macOS
-**Сети:** сканирование и анализ трафика, VPN (WireGuard, OpenVPN), настройка туннелей
-**Пентест:** Nmap, Metasploit, Burp Suite, BloodHound, Impacket
-**Blue Team:** SIEM (Splunk), Wireshark, Sysmon, анализ журналов Windows/Linux
-**Программирование:** Python, Bash, PowerShell
-**Инфраструктура:** виртуальные машины, облачные лаборатории, домашняя сетьевая инфраструктура
+![Skills](https://skillicons.dev/icons?i=python,bash,powershell,linux,windows,wireguard)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## Сертификаты
 
