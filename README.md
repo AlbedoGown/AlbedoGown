@@ -3,7 +3,7 @@
 Аналитик по кибербезопасности. Фокус на сетевую безопасность, анализ инцидентов, пентест и автоматизацию задач безопасности.
 
 [![HTB](https://www.hackthebox.com/badge/image/3024562)](https://app.hackthebox.com/profile/Albedo0x)
-[![HTB Level](https://img.shields.io/badge/HTB_Level-28_%28Apprentice%29-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/Albedo0x)
+[![HTB Level](https://img.shields.io/badge/HTB_Level-34_%28Skilled%29-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/Albedo0x)
 
 ## Проекты
 
@@ -27,6 +27,8 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-1A1A1A?style=for-the-badge&logo=gnubash&logoColor=white)
+![tshark](https://img.shields.io/badge/tshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## Сертификаты
 
