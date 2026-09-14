@@ -28,10 +28,13 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-1A1A1A?style=for-the-badge&logo=gnubash&logoColor=white)
 ![tshark](https://img.shields.io/badge/tshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
 ## Сертификаты
 
-<!-- вставить ссылки на сертификаты -->
+- 🛡️ [LetsDefend SOC Analyst Learning Path](https://app.letsdefend.io/certificate/show/de9e7d55-b183-4355-ac06-ef1b3fb11970) — пройден 14.09.2026
+- 🎓 HTB Academy — Junior Cybersecurity Analyst Path (21/21 модулей, 113 целей, Top 5%)
+- ⏳ HTB CJCA (Certified Junior Cybersecurity Associate) — экзамен сдан, результат ожидается
 
 ## Контакты
 
