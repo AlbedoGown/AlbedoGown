@@ -32,9 +32,9 @@
 
 ## Сертификаты
 
-- 🛡️ [LetsDefend SOC Analyst Learning Path](https://app.letsdefend.io/certificate/show/de9e7d55-b183-4355-ac06-ef1b3fb11970) — пройден 14.09.2026
-- 🎓 HTB Academy — Junior Cybersecurity Analyst Path (21/21 модулей, 113 целей, Top 5%)
-- ⏳ HTB CJCA (Certified Junior Cybersecurity Associate) — экзамен сдан, результат ожидается
+- 🛡️ [LetsDefend SOC Analyst](https://app.letsdefend.io/certificate/show/de9e7d55-b183-4355-ac06-ef1b3fb11970)
+- 🎓 HTB Academy — Junior Cybersecurity Analyst (Top 5%)
+- ⏳ HTB CJCA — в процессе
 
 ## Контакты
 
