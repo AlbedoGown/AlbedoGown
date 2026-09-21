@@ -35,6 +35,10 @@
 - 🛡️ [LetsDefend SOC Analyst](https://app.letsdefend.io/certificate/show/de9e7d55-b183-4355-ac06-ef1b3fb11970)
 - 🔰 [HTB CJCA](https://academy.hackthebox.com/achievement/badge/82ed8da4-b59c-11f1-82d1-bea50ffe6cb4) ([PDF](certificates/HTB-CJCA-certificate.pdf))
 
+## CTF
+
+- 🏴 [Holmes CTF 2026 — HackTheBox](https://profile.hackthebox.com/) — команда Albedo0x, 10/111 решённых заданий, 800 очков ([PDF](certificates/HTB-CTF-Holmes2026-certificate.pdf))
+
 ## Контакты
 
 <!-- вставить ссылки на LinkedIn / Telegram / другие профессиональные сети -->
