@@ -33,7 +33,7 @@
 ## Сертификаты
 
 - 🛡️ [LetsDefend SOC Analyst](https://app.letsdefend.io/certificate/show/de9e7d55-b183-4355-ac06-ef1b3fb11970)
-- ⏳ HTB CJCA — в процессе
+- 🔰 [HTB CJCA](certificates/HTB-CJCA-certificate.pdf)
 
 ## Контакты
 
