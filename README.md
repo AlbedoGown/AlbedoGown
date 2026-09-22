@@ -37,7 +37,7 @@
 
 ## CTF
 
-- 🏴 [Holmes CTF 2026 — HackTheBox](https://profile.hackthebox.com/) — команда Albedo0x, 10/111 решённых заданий, 800 очков ([PDF](certificates/HTB-CTF-Holmes2026-certificate.pdf))
+- 🏴 [Holmes CTF 2026 — HackTheBox](https://profile.hackthebox.com/)  ([PDF](certificates/HTB-CTF-Holmes2026-certificate.pdf))
 
 ## Контакты
 
