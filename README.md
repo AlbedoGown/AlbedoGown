@@ -32,8 +32,10 @@
 
 ## Сертификаты
 
+<a href="https://www.credly.com/badges/58c9f663-e083-4948-9c9a-11ca210378a2/public_url"><img src="https://images.credly.com/size/680x680/images/95043c37-e916-4e4e-96ab-06fb66056648/blob" alt="HTB Certified Junior Cybersecurity Associate (HTB CJCA)" width="120"></a>
+
 - 🛡️ [LetsDefend SOC Analyst](https://app.letsdefend.io/certificate/show/de9e7d55-b183-4355-ac06-ef1b3fb11970)
-- 🔰 [HTB CJCA](https://academy.hackthebox.com/achievement/badge/82ed8da4-b59c-11f1-82d1-bea50ffe6cb4) ([PDF](certificates/HTB-CJCA-certificate.pdf))
+- 🔰 **HTB CJCA** — [бейдж на Credly](https://www.credly.com/badges/58c9f663-e083-4948-9c9a-11ca210378a2/public_url) · [HTB Academy](https://academy.hackthebox.com/achievement/badge/82ed8da4-b59c-11f1-82d1-bea50ffe6cb4) · [PDF](certificates/HTB-CJCA-certificate.pdf)
 
 ## CTF
 
