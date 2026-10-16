@@ -1,7 +1,5 @@
 # Cybersecurity Analyst
 
-Аналитик по кибербезопасности. Фокус на сетевую безопасность, анализ инцидентов, пентест и автоматизацию задач безопасности.
-
 [![HTB](https://www.hackthebox.com/badge/image/3024562)](https://app.hackthebox.com/profile/Albedo0x)
 
 ## Проекты
