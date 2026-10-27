@@ -4,6 +4,7 @@
 
 ## Проекты
 
+- [ioc-triage](https://github.com/AlbedoGown/ioc-triage): проверка пачки IOC (IP, домены, URL, хэши) одной командой по VirusTotal, AbuseIPDB, Kaspersky OpenTIP, URLhaus, ThreatFox и MalwareBazaar, пакет на PyPI
 - [red-team-labs](https://github.com/AlbedoGown/red-team-labs) — атакующие техники: разведка, эксплуатация, повышение привилегий, Active Directory
 - [blue-team-defense](https://github.com/AlbedoGown/blue-team-defense) — защита и мониторинг: SIEM, анализ логов, реагирование на инциденты, threat hunting
 - [xor-shellcode-toolkit](https://github.com/AlbedoGown/xor-shellcode-toolkit) — анализ и генерация обфусцированного шеллкода (XOR-энкодер/декодер)
